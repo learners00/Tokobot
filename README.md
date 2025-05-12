@@ -32,7 +32,7 @@
    user=xxx
    ```
 
-   Ensure that this data is formatted correctly as required by the Tokopedia API.
+   Ensure that this data is formatted correctly as required by the Tokoplay API.
 
 ## Usage
 
