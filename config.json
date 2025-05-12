@@ -1,0 +1,6 @@
+{
+    "base_url": "https://minigame.tokocrypto.com/api",
+    "user_agent": "Mozilla/5.0",
+    "referer": "https://minigame.tokocrypto.com/game",
+    "token_file": "tokens.json"
+}

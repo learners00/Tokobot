@@ -1,0 +1,2 @@
+query=xxx
+or user=xxx
