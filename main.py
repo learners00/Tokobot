@@ -249,8 +249,8 @@ def main():
                         if api_client.stats["Energy"] <= 0:
                             continue
 
-                score = random.randint(1790, 1800)
-                multiplier = "10"
+                score = random.randint(170, 200)
+                multiplier = "1"
 
                 if api_client.play_game(game_id, score, multiplier):
                     wait_time = random.randint(5, 10)
